@@ -1,8 +1,9 @@
-import java.io.*;
+import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.PrintStream;
-import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
+
 /*
 * Does only one job
 * */

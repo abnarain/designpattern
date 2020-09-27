@@ -1,6 +1,8 @@
 import java.util.List;
 import java.util.stream.Stream;
-
+/*
+*
+* */
 public class ProductFilter
 {
     public Stream<Product> filterByColor(List<Product> products, Color color)
